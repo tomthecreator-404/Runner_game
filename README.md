@@ -1,2 +1,2 @@
 # Runner_game
-Work I have done while studying 
+This is a simple game created in unity using c# 
